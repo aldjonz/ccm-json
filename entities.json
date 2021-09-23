@@ -1,9 +1,5 @@
 {"entities": [
     {
-        "name": "The Leys School",
-        "path": "net.theleys"
-    },
-    {
         "name": "St. Edmunds College",
         "path": "uk.ac.cam.st-edmunds"
     },
