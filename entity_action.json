@@ -1,0 +1,367 @@
+{"emission": [
+    {
+        "name": "The Leys School",
+        "entity_id": "net.theleys",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },    
+    {
+        "name": "St. Edmunds College",        
+        "entity_id": "uk.ac.cam.st-edmunds",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "King's College",
+        "entity_id": "uk.ac.cam.kings",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Caius College",
+        "entity_id": "uk.ac.cam.cai",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "A Staircase, King's College",
+        "entity_id": "uk.ac.cam.kings.a-staircase",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Bodley's Court, King's College",
+        "entity_id": "uk.ac.cam.kings.bodleys",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Cranmer Road, King's College",
+        "entity_id": "uk.ac.cam.kings.cranmer",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Gardens, King's College",
+        "entity_id": "uk.ac.cam.kings.garden",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Grasshopper Lodge, King's College",
+        "entity_id": "uk.ac.cam.kings.grasshopper",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Keynes' Building, King's College",
+        "entity_id": "uk.ac.cam.kings.keynes",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Kingsfield, King's College",
+        "entity_id": "uk.ac.cam.kings.kingsfield",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "King's Parade, King's College",
+        "entity_id": "uk.ac.cam.kings.kingsparade",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Market, King's College",
+        "entity_id": "uk.ac.cam.kings.market",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Old Site, King's College",
+        "entity_id": "uk.ac.cam.kings.old-site",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Porters' Lodge, King's College",
+        "entity_id": "uk.ac.cam.kings.plodge",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Provost's Lodge, King's College",
+        "entity_id": "uk.ac.cam.kings.provosts-lodge",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Spalding Hostel, King's College",
+        "entity_id": "uk.ac.cam.kings.spalding",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "St. Edward's, King's College",
+        "entity_id": "uk.ac.cam.kings.st-edwards",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "TCR, King's College",
+        "entity_id": "uk.ac.cam.kings.tcr",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Webb's Court, King's College",
+        "entity_id": "uk.ac.cam.kings.webbs",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Wilkins Building, King's College",
+        "entity_id": "uk.ac.cam.kings.wilkins",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Caius College",
+        "entity_id": "uk.ac.cam.queens",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Norfolk Building, St. Edmund's College",
+        "entity_id": "uk.ac.cam.st-edmunds.norfolk-building",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Richard Laws Building, St. Edmund's College",
+        "entity_id": "uk.ac.cam.st-edmunds.richard-laws",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "White Cottage, St. Edmund's College",
+        "entity_id": "uk.ac.cam.st-edmunds.white-cottage",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    },
+    {
+        "name": "Caius College",
+        "entity_id": "uk.ac.cam.cai",
+        "actions": [
+            {
+                "measure": "Green Tariff",
+                "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
+            },
+            {
+                "measure": "Reduce Food Waste",
+                "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
+            }
+        ]
+    }
+  ]
+}
