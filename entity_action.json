@@ -4,11 +4,11 @@
         "entity_id": "net.theleys",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -18,11 +18,11 @@
         "entity_id": "uk.ac.cam.st-edmunds",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -32,11 +32,11 @@
         "entity_id": "uk.ac.cam.kings",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -46,11 +46,11 @@
         "entity_id": "uk.ac.cam.cai",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -60,11 +60,11 @@
         "entity_id": "uk.ac.cam.kings.a-staircase",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -74,11 +74,11 @@
         "entity_id": "uk.ac.cam.kings.bodleys",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -88,11 +88,11 @@
         "entity_id": "uk.ac.cam.kings.cranmer",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -102,11 +102,11 @@
         "entity_id": "uk.ac.cam.kings.garden",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -116,11 +116,11 @@
         "entity_id": "uk.ac.cam.kings.grasshopper",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -130,11 +130,11 @@
         "entity_id": "uk.ac.cam.kings.keynes",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -144,11 +144,11 @@
         "entity_id": "uk.ac.cam.kings.kingsfield",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -158,11 +158,11 @@
         "entity_id": "uk.ac.cam.kings.kingsparade",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -172,11 +172,11 @@
         "entity_id": "uk.ac.cam.kings.market",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -186,11 +186,11 @@
         "entity_id": "uk.ac.cam.kings.old-site",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -200,11 +200,11 @@
         "entity_id": "uk.ac.cam.kings.plodge",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -214,11 +214,11 @@
         "entity_id": "uk.ac.cam.kings.provosts-lodge",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -228,11 +228,11 @@
         "entity_id": "uk.ac.cam.kings.spalding",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -242,11 +242,11 @@
         "entity_id": "uk.ac.cam.kings.st-edwards",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -256,11 +256,11 @@
         "entity_id": "uk.ac.cam.kings.tcr",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -270,11 +270,11 @@
         "entity_id": "uk.ac.cam.kings.webbs",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -284,11 +284,11 @@
         "entity_id": "uk.ac.cam.kings.wilkins",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -298,11 +298,11 @@
         "entity_id": "uk.ac.cam.queens",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -312,11 +312,11 @@
         "entity_id": "uk.ac.cam.st-edmunds.norfolk-building",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -326,11 +326,11 @@
         "entity_id": "uk.ac.cam.st-edmunds.richard-laws",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -340,11 +340,11 @@
         "entity_id": "uk.ac.cam.st-edmunds.white-cottage",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
@@ -354,11 +354,11 @@
         "entity_id": "uk.ac.cam.cai",
         "actions": [
             {
-                "measure": "Green Tariff",
+                "title": "Green Tariff",
                 "link": "https://cambridgecarbonfootprint.org/actions/renewable_electricity_tariff/"
             },
             {
-                "measure": "Reduce Food Waste",
+                "title": "Reduce Food Waste",
                 "link": "https://cambridgecarbonfootprint.org/actions/cut_down_on_waste/"
             }
         ]
